@@ -8,5 +8,6 @@ parts:
       sections:
       - file: some_content/text_and_code.ipynb
       - file: some_content/Linear Diffusion.ipynb
+      - file: some_content/1_coastal_classification.ipynb
     - file: references.md
     - file: credits.md
